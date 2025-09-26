@@ -1,5 +1,5 @@
 param(
-    [int]$totalRecord = 20,
+    [int]$totalRecord = 20
 )
 $Email = "bharat.weproinc@gmail.com"
 Add-Type -AssemblyName System.Windows.Forms
@@ -137,27 +137,35 @@ for ($i = 0; $i -lt $totalPages; $i++) {
     # --- Extract rows ---
     $data = @()
     $rows = $table.getElementsByTagName("tr")
+    # --- Extract rows safely ---
     foreach ($row in $rows) {
         $cells = $row.getElementsByTagName("td")
-        if ($cells.Length -eq 0) { continue }
+        if (-not $cells -or $cells.Length -eq 0) { continue }
 
         $item = @{}
+
         for ($j = 0; $j -lt $cells.Length; $j++) {
             $cell = $cells.Item($j)
+            if (-not $cell) { continue }
+
+            # Use a default header if index exceeds headers array
+            $headerKey = if ($j -lt $headers.Length) { $headers[$j] } else { "Column$j" }
 
             $aTag = $cell.getElementsByTagName("a")
-            if ($aTag.Length -gt 0) {
-                $item[$headers[$j]] = @{
-                    Text = $aTag.Item(0).innerText.Trim()
-                    Href = $aTag.Item(0).href
+            if ($aTag.Length -gt 0 -and $aTag.Item(0)) {
+                $item[$headerKey] = @{
+                    Text = if ($aTag.Item(0).innerText) { $aTag.Item(0).innerText.Trim() } else { "" }
+                    Href = if ($aTag.Item(0).href) { $aTag.Item(0).href } else { "" }
                 }
             } else {
-                $item[$headers[$j]] = $cell.innerText.Trim()
+                $item[$headerKey] = if ($cell.innerText) { $cell.innerText.Trim() } else { "" }
             }
         }
+
         $data += $item
-        $finalData += $data
+        $finalData += $item
     }
+
 
     # --- Save JSON ---
     if ($i -eq 0) {
@@ -174,7 +182,7 @@ for ($i = 0; $i -lt $totalPages; $i++) {
     Write-Output "Page $i data saved to $outputFile"
 
     # --- Move to next page if exists ---
-    if ($i+1 -lt $maxPages) {
+    if ($i+1 -lt $totalPages) {
         $screenWidth  = [System.Windows.Forms.SystemInformation]::PrimaryMonitorSize.Width
         $screenHeight = [System.Windows.Forms.SystemInformation]::PrimaryMonitorSize.Height
         $nextX = $screenWidth - 520

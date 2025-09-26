@@ -17,7 +17,7 @@ $postData = json_decode($input, true);
 
 // If not JSON, fallback to $_POST (form-data or x-www-form-urlencoded)
 if (json_last_error() !== JSON_ERROR_NONE) {
-    $postData = $_POST;
+    $postData = $_GET;
 }
 
 // Extract fields
@@ -98,20 +98,18 @@ if (json_last_error() === JSON_ERROR_NONE && is_array($data)) {
         'success' => $data['success'] ?? false,
         'message' => $data['message'] ?? '',
         'data' => $data['data'] ?? null,
-        'IsProfile' => $data['IsProfile'] ?? false
     ];
 } else {
     $results = [
         'path' => $path,
         'success' => false,
         'message' => 'Invalid JSON from script',
-        'raw_output' => $outputString
     ];
 }
 
 // Final combined response
 echo json_encode([
     'success' => true,
-    'email'   => $email,
     'results' => $results
 ], JSON_PRETTY_PRINT);
+exit;

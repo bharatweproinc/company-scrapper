@@ -1,22 +1,29 @@
 ﻿[
     {
         "HQPhone":  "(479) 273-4000",
-        "SFOccupied":  "956,254,020",
+        "ParentCompany":  "",
+        "SFOccupied":  "958,124,762",
         "HQState":  "AR",
+        "Column22":  "",
         "Revenue":  "$680,985,000,000",
-        "Locations":  "6,482",
+        "Locations":  "6,497",
         "Tenant Name":  {
                             "Text":  "Walmart Inc.",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "72716",
         "HQMarket":  "Northwest Arkansas",
         "Credit Rating":  "B - 61",
         "SIC":  "Variety Stores - 5331",
+        "NAICS":  "All Other General Merchandise Retailers - 455219",
+        "Index":  "",
         "HQCity":  "Bentonville",
         "Employees":  "2,100,000",
-        "NAICS":  "All Other General Merchandise Retailers - 455219",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://stock.walmart.com/home"
+                    },
         "HighestUseBySF":  "83% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -25,22 +32,29 @@
     },
     {
         "HQPhone":  "(206) 266-1000",
+        "ParentCompany":  "",
         "SFOccupied":  "782,443,036",
         "HQState":  "WA",
+        "Column22":  "",
         "Revenue":  "$637,959,000,000",
         "Locations":  "2,715",
         "Tenant Name":  {
                             "Text":  "Amazon",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "98109",
         "HQMarket":  "Seattle",
         "Credit Rating":  "B - 61",
         "SIC":  "Catalog/Mail-Order Houses - 5961",
+        "NAICS":  "Online Shopping - 454110",
+        "Index":  "",
         "HQCity":  "Seattle",
         "Employees":  "1,551,000",
-        "NAICS":  "Online Shopping - 454110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.aboutamazon.com/"
+                    },
         "HighestUseBySF":  "90% Industrial",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -49,22 +63,29 @@
     },
     {
         "HQPhone":  "(770) 433-8211",
+        "ParentCompany":  "",
         "SFOccupied":  "356,122,013",
         "HQState":  "GA",
+        "Column22":  "",
         "Revenue":  "$159,514,000,000",
         "Locations":  "3,332",
         "Tenant Name":  {
                             "Text":  "The Home Depot Inc",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "30339",
         "HQMarket":  "Atlanta",
         "Credit Rating":  "B - 52",
         "SIC":  "Lumber - 5211",
+        "NAICS":  "Home Centers - 444110",
+        "Index":  "",
         "HQCity":  "Atlanta",
         "Employees":  "500,000",
-        "NAICS":  "Home Centers - 444110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://corporate.homedepot.com/"
+                    },
         "HighestUseBySF":  "68% Retail",
         "Industry":  "Retailer",
         "Growth":  "Growing",
@@ -73,22 +94,29 @@
     },
     {
         "HQPhone":  "(612) 304-6073",
+        "ParentCompany":  "",
         "SFOccupied":  "297,967,972",
         "HQState":  "MN",
+        "Column22":  "",
         "Revenue":  "$106,566,000,000",
         "Locations":  "2,048",
         "Tenant Name":  {
                             "Text":  "Target Corporation",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "55403",
         "HQMarket":  "Minneapolis",
         "Credit Rating":  "B - 64",
         "SIC":  "Department Stores - 5311",
+        "NAICS":  "Department Stores - 455110",
+        "Index":  "",
         "HQCity":  "Minneapolis",
         "Employees":  "400,000",
-        "NAICS":  "Department Stores - 455110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://corporate.target.com/investors"
+                    },
         "HighestUseBySF":  "79% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -97,22 +125,29 @@
     },
     {
         "HQPhone":  "(800) 445-6937",
+        "ParentCompany":  "",
         "SFOccupied":  "270,480,307",
         "HQState":  "NC",
+        "Column22":  "",
         "Revenue":  "$83,674,000,000",
         "Locations":  "1,848",
         "Tenant Name":  {
                             "Text":  "Lowe’s Companies, Inc.",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "28117",
         "HQMarket":  "Charlotte",
         "Credit Rating":  "B - 58",
         "SIC":  "Lumber - 5211",
+        "NAICS":  "Home Centers - 444110",
+        "Index":  "",
         "HQCity":  "Mooresville",
         "Employees":  "340,000",
-        "NAICS":  "Home Centers - 444110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://corporate.lowes.com/"
+                    },
         "HighestUseBySF":  "81% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -121,22 +156,29 @@
     },
     {
         "HQPhone":  "(402) 346-1400",
-        "SFOccupied":  "236,031,599",
+        "ParentCompany":  "",
+        "SFOccupied":  "236,032,599",
         "HQState":  "NE",
+        "Column22":  "",
         "Revenue":  "$424,232,000,000",
-        "Locations":  "15,787",
+        "Locations":  "15,789",
         "Tenant Name":  {
                             "Text":  "Berkshire Hathaway Inc.",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "68131",
         "HQMarket":  "Omaha",
         "Credit Rating":  "A - 92",
         "SIC":  "Insurance, Property - 6331",
+        "NAICS":  "Insurance Funds - 525190",
+        "Index":  "",
         "HQCity":  "Omaha",
         "Employees":  "396,500",
-        "NAICS":  "Insurance Funds - 525190",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "http://www.berkshirehathaway.com/"
+                    },
         "HighestUseBySF":  "64% Industrial",
         "Industry":  "Finance and Insurance",
         "Growth":  "Stable",
@@ -145,22 +187,29 @@
     },
     {
         "HQPhone":  "(313) 322-3000",
-        "SFOccupied":  "215,458,419",
+        "ParentCompany":  "",
+        "SFOccupied":  "215,459,419",
         "HQState":  "MI",
+        "Column22":  "",
         "Revenue":  "$184,992,000,000",
-        "Locations":  "4,645",
+        "Locations":  "4,647",
         "Tenant Name":  {
                             "Text":  "Ford Motor Company",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "48126",
         "HQMarket":  "Detroit",
         "Credit Rating":  "A - 77",
         "SIC":  "Motor Vehicles - 3711",
+        "NAICS":  "Automobile Manufacturing - 336111",
+        "Index":  "",
         "HQCity":  "Dearborn",
         "Employees":  "177,000",
-        "NAICS":  "Automobile Manufacturing - 336111",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://corporate.ford.com/"
+                    },
         "HighestUseBySF":  "70% Industrial",
         "Industry":  "Manufacturing",
         "Growth":  "Stable",
@@ -169,21 +218,29 @@
     },
     {
         "HQPhone":  "011 49 4953 6190",
+        "ParentCompany":  "",
         "SFOccupied":  "208,861,858",
         "HQState":  "NIE",
+        "Column22":  "",
         "Revenue":  "$378,602,011,762",
         "Locations":  "1,861",
         "Tenant Name":  {
                             "Text":  "Volkswagen AG",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "38440",
         "HQMarket":  "Germany North",
+        "Credit Rating":  "",
         "SIC":  "Automobiles and Other Motor Vehicles - 5012",
+        "NAICS":  "Automobile and Motor Vehicle Merchant Wholesalers - 423110",
+        "Index":  "",
         "HQCity":  "Wolfsburg",
         "Employees":  "672,000",
-        "NAICS":  "Automobile and Motor Vehicle Merchant Wholesalers - 423110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.volkswagen-group.com/de/investoren-15766"
+                    },
         "HighestUseBySF":  "82% Industrial",
         "Industry":  "Wholesaler",
         "Growth":  "Stable",
@@ -192,22 +249,29 @@
     },
     {
         "HQPhone":  "(513) 762-4000",
+        "ParentCompany":  "",
         "SFOccupied":  "204,072,238",
         "HQState":  "OH",
+        "Column22":  "",
         "Revenue":  "$147,123,000,000",
         "Locations":  "3,061",
         "Tenant Name":  {
                             "Text":  "Kroger",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "National",
         "HQPostalCode":  "45202",
         "HQMarket":  "Cincinnati",
         "Credit Rating":  "A - 83",
         "SIC":  "Grocery Stores - 5411",
+        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Index":  "",
         "HQCity":  "Cincinnati",
         "Employees":  "430,000",
-        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://ir.kroger.com/home"
+                    },
         "HighestUseBySF":  "83% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -216,22 +280,29 @@
     },
     {
         "HQPhone":  "(615) 855-4000",
-        "SFOccupied":  "196,094,206",
+        "ParentCompany":  "",
+        "SFOccupied":  "196,098,706",
         "HQState":  "TN",
+        "Column22":  "",
         "Revenue":  "$40,612,308,000",
-        "Locations":  "19,062",
+        "Locations":  "19,071",
         "Tenant Name":  {
                             "Text":  "Dollar General Corporation",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "37072",
         "HQMarket":  "Nashville",
         "Credit Rating":  "A - 74",
         "SIC":  "Variety Stores - 5331",
+        "NAICS":  "All Other General Merchandise Retailers - 455219",
+        "Index":  "",
         "HQCity":  "Goodlettsville",
         "Employees":  "19,643",
-        "NAICS":  "All Other General Merchandise Retailers - 455219",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://investor.dollargeneral.com/"
+                    },
         "HighestUseBySF":  "87% Retail",
         "Industry":  "Retailer",
         "Growth":  "Growing",
@@ -240,22 +311,29 @@
     },
     {
         "HQPhone":  "(757) 321-5000",
-        "SFOccupied":  "182,418,715",
+        "ParentCompany":  "",
+        "SFOccupied":  "182,419,715",
         "HQState":  "VA",
+        "Column22":  "",
         "Revenue":  "$17,578,500,000",
-        "Locations":  "16,807",
+        "Locations":  "16,809",
         "Tenant Name":  {
                             "Text":  "Dollar Tree, Inc.",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "23320",
         "HQMarket":  "Norfolk",
         "Credit Rating":  "B - 62",
         "SIC":  "Variety Stores - 5331",
+        "NAICS":  "General Merchandise Stores - 452319",
+        "Index":  "",
         "HQCity":  "Chesapeake",
         "Employees":  "211,000",
-        "NAICS":  "General Merchandise Stores - 452319",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://corporate.dollartree.com/about/our-brands/dollar-tree"
+                    },
         "HighestUseBySF":  "88% Retail",
         "Industry":  "Retailer",
         "Growth":  "Downsizing",
@@ -264,22 +342,29 @@
     },
     {
         "HQPhone":  "(901) 818-7500",
-        "SFOccupied":  "167,101,296",
+        "ParentCompany":  "",
+        "SFOccupied":  "167,108,296",
         "HQState":  "TN",
+        "Column22":  "",
         "Revenue":  "$87,693,000,000",
-        "Locations":  "3,371",
+        "Locations":  "3,385",
         "Tenant Name":  {
                             "Text":  "FedEx Corporation",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "38120",
         "HQMarket":  "Memphis",
         "Credit Rating":  "A - 73",
         "SIC":  "Trucking, Except Local - 4213",
+        "NAICS":  "General Freight Trucking, Long-Distance, Truckload - 484121",
+        "Index":  "",
         "HQCity":  "Memphis",
         "Employees":  "530,000",
-        "NAICS":  "General Freight Trucking, Long-Distance, Truckload - 484121",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.fedex.com/"
+                    },
         "HighestUseBySF":  "90% Industrial",
         "Industry":  "Transportation and Warehousing",
         "Growth":  "Stable",
@@ -288,22 +373,29 @@
     },
     {
         "HQPhone":  "(313) 392-9400",
+        "ParentCompany":  "",
         "SFOccupied":  "153,519,966",
         "HQState":  "MI",
+        "Column22":  "",
         "Revenue":  "$187,442,000,000",
         "Locations":  "7,780",
         "Tenant Name":  {
                             "Text":  "General Motors Company",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "48243",
         "HQMarket":  "Detroit",
         "Credit Rating":  "C - 40",
         "SIC":  "Motor Vehicles - 3711",
+        "NAICS":  "Automobile and Light Duty Motor Vehicle Manufacturing - 336110",
+        "Index":  "",
         "HQCity":  "Detroit",
         "Employees":  "165,000",
-        "NAICS":  "Automobile and Light Duty Motor Vehicle Manufacturing - 336110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.gm.com/"
+                    },
         "HighestUseBySF":  "53% Industrial",
         "Industry":  "Manufacturing",
         "Growth":  "Stable",
@@ -312,22 +404,29 @@
     },
     {
         "HQPhone":  "(508) 390-1000",
+        "ParentCompany":  "",
         "SFOccupied":  "145,376,596",
         "HQState":  "MA",
+        "Column22":  "",
         "Revenue":  "$56,360,000,000",
         "Locations":  "4,743",
         "Tenant Name":  {
                             "Text":  "The TJX Companies, Inc.",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "01701",
         "HQMarket":  "Boston",
         "Credit Rating":  "B - 63",
         "SIC":  "Department Stores - 5311",
+        "NAICS":  "Department Stores - 455110",
+        "Index":  "",
         "HQCity":  "Framingham",
         "Employees":  "349,000",
-        "NAICS":  "Department Stores - 455110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "http://www.tjx.com/"
+                    },
         "HighestUseBySF":  "81% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -336,22 +435,29 @@
     },
     {
         "HQPhone":  "(425) 313-8100",
-        "SFOccupied":  "143,415,915",
+        "ParentCompany":  "",
+        "SFOccupied":  "143,416,415",
         "HQState":  "WA",
+        "Column22":  "",
         "Revenue":  "$254,453,000,000",
-        "Locations":  "970",
+        "Locations":  "971",
         "Tenant Name":  {
                             "Text":  "Costco Wholesale Corporation",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "98027",
         "HQMarket":  "Seattle",
         "Credit Rating":  "B - 59",
         "SIC":  "Misc Gnrl Merchandise Stores - 5399",
+        "NAICS":  "Warehouse Clubs and Supercenters - 455211",
+        "Index":  "",
         "HQCity":  "Issaquah",
         "Employees":  "316,000",
-        "NAICS":  "Warehouse Clubs and Supercenters - 455211",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://logistics.costco.com/"
+                    },
         "HighestUseBySF":  "88% Retail",
         "Industry":  "Retailer",
         "Growth":  "Growing",
@@ -360,22 +466,29 @@
     },
     {
         "HQPhone":  "(847) 315-3700",
-        "SFOccupied":  "128,019,725",
+        "ParentCompany":  "",
+        "SFOccupied":  "128,020,225",
         "HQState":  "IL",
+        "Column22":  "",
         "Revenue":  "$147,658,000,000",
-        "Locations":  "9,924",
+        "Locations":  "9,925",
         "Tenant Name":  {
                             "Text":  "Walgreens Boots Alliance",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "60015",
         "HQMarket":  "Chicago",
         "Credit Rating":  "C - 46",
         "SIC":  "Drug Stores - 5912",
+        "NAICS":  "Pharmacies and Drug Retailers - 456110",
+        "Index":  "",
         "HQCity":  "Deerfield",
         "Employees":  "311,000",
-        "NAICS":  "Pharmacies and Drug Retailers - 456110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://investor.walgreensbootsalliance.com/"
+                    },
         "HighestUseBySF":  "88% Retail",
         "Industry":  "Retailer",
         "Growth":  "Downsizing",
@@ -384,22 +497,29 @@
     },
     {
         "HQPhone":  "(208) 395-6200",
-        "SFOccupied":  "120,922,645",
+        "ParentCompany":  "",
+        "SFOccupied":  "120,923,145",
         "HQState":  "ID",
+        "Column22":  "",
         "Revenue":  "$80,390,900,000",
-        "Locations":  "2,371",
+        "Locations":  "2,372",
         "Tenant Name":  {
                             "Text":  "Albertsons Companies, Inc.",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "National",
         "HQPostalCode":  "83706",
         "HQMarket":  "Boise",
         "Credit Rating":  "B - 60",
         "SIC":  "Grocery Stores - 5411",
+        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Index":  "",
         "HQCity":  "Boise",
         "Employees":  "290,000",
-        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "http://www.albertsonscompanies.com/"
+                    },
         "HighestUseBySF":  "87% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -408,22 +528,29 @@
     },
     {
         "HQPhone":  "(212) 515-3200",
+        "ParentCompany":  "",
         "SFOccupied":  "112,873,432",
         "HQState":  "NY",
+        "Column22":  "",
         "Revenue":  "$26,114,000,000",
         "Locations":  "2,711",
         "Tenant Name":  {
                             "Text":  "Apollo Global Management",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "10019",
         "HQMarket":  "New York",
         "Credit Rating":  "B - 69",
         "SIC":  "Investment Advice - 6282",
+        "NAICS":  "Investment Advice - 523930",
+        "Index":  "",
         "HQCity":  "New York",
         "Employees":  "4,900",
-        "NAICS":  "Investment Advice - 523930",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.apollo.com/"
+                    },
         "HighestUseBySF":  "54% Industrial",
         "Industry":  "Finance and Insurance",
         "Growth":  "Stable",
@@ -432,22 +559,29 @@
     },
     {
         "HQPhone":  "(914) 253-2000",
+        "ParentCompany":  "",
         "SFOccupied":  "112,081,409",
         "HQState":  "NY",
+        "Column22":  "",
         "Revenue":  "$91,854,000,000",
         "Locations":  "862",
         "Tenant Name":  {
                             "Text":  "PepsiCo, Inc.",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "10577",
         "HQMarket":  "New York",
         "Credit Rating":  "A - 73",
         "SIC":  "Bottl And Can Soft Drinks - 2086",
+        "NAICS":  "Soft Drink Manufacturing - 312111",
+        "Index":  "",
         "HQCity":  "Purchase",
         "Employees":  "318,000",
-        "NAICS":  "Soft Drink Manufacturing - 312111",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.pepsico.com/"
+                    },
         "HighestUseBySF":  "96% Industrial",
         "Industry":  "Manufacturing",
         "Growth":  "Stable",
@@ -456,22 +590,29 @@
     },
     {
         "HQPhone":  "(262) 703-7000",
+        "ParentCompany":  "",
         "SFOccupied":  "101,223,123",
         "HQState":  "WI",
+        "Column22":  "",
         "Revenue":  "$16,221,000,000",
         "Locations":  "1,128",
         "Tenant Name":  {
                             "Text":  "Kohl\u0027s",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "National",
         "HQPostalCode":  "53051",
         "HQMarket":  "Milwaukee",
         "Credit Rating":  "A - 71",
         "SIC":  "Department Stores - 5311",
+        "NAICS":  "Department Stores - 455110",
+        "Index":  "",
         "HQCity":  "Menomonee Falls",
         "Employees":  "110,000",
-        "NAICS":  "Department Stores - 455110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://corporate.kohls.com/"
+                    },
         "HighestUseBySF":  "90% Retail",
         "Industry":  "Retailer",
         "Growth":  "Growing",
@@ -480,21 +621,29 @@
     },
     {
         "HQPhone":  "(202) 268-2000",
+        "ParentCompany":  "",
         "SFOccupied":  "100,220,545",
         "HQState":  "DC",
+        "Column22":  "",
+        "Revenue":  "",
+        "Locations":  "28,069",
         "Tenant Name":  {
                             "Text":  "United States Postal Service",
-                            "Href":  null
+                            "Href":  ""
                         },
-        "Locations":  "28,069",
         "Territory":  "National",
         "HQPostalCode":  "20260",
         "HQMarket":  "Washington",
         "Credit Rating":  "C - 50",
         "SIC":  "U.S. Postal Service - 4311",
+        "NAICS":  "Postal Service - 491110",
+        "Index":  "",
         "HQCity":  "Washington",
         "Employees":  "533,724",
-        "NAICS":  "Postal Service - 491110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.usps.com/"
+                    },
         "HighestUseBySF":  "33% Industrial",
         "Industry":  "Transportation and Warehousing",
         "Growth":  "Stable",
@@ -503,22 +652,29 @@
     },
     {
         "HQPhone":  "(212) 494-3000",
+        "ParentCompany":  "",
         "SFOccupied":  "99,622,844",
         "HQState":  "NY",
+        "Column22":  "",
         "Revenue":  "$23,006,000,000",
         "Locations":  "776",
         "Tenant Name":  {
                             "Text":  "Macy\u0027s, Inc.",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "10001",
         "HQMarket":  "New York",
         "Credit Rating":  "A - 78",
         "SIC":  "Department Stores - 5311",
+        "NAICS":  "Department Stores - 452210",
+        "Index":  "",
         "HQCity":  "New York",
         "Employees":  "90,000",
-        "NAICS":  "Department Stores - 452210",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.macysinc.com/investors"
+                    },
         "HighestUseBySF":  "80% Retail",
         "Industry":  "Retailer",
         "Growth":  "Downsizing",
@@ -527,21 +683,29 @@
     },
     {
         "HQPhone":  "011 49 228 1829944",
+        "ParentCompany":  "",
         "SFOccupied":  "99,389,110",
         "HQState":  "NOR",
+        "Column22":  "",
         "Revenue":  "$95,392,476,820",
         "Locations":  "1,002",
         "Tenant Name":  {
                             "Text":  "DHL",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "53113",
         "HQMarket":  "Germany West",
+        "Credit Rating":  "",
         "SIC":  "Courier Serv, Excp By Air - 4215",
+        "NAICS":  "Couriers and Express Delivery Services - 492110",
+        "Index":  "",
         "HQCity":  "Bonn",
         "Employees":  "580,580",
-        "NAICS":  "Couriers and Express Delivery Services - 492110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.deutschepost.de/"
+                    },
         "HighestUseBySF":  "91% Industrial",
         "Industry":  "Transportation and Warehousing",
         "Growth":  "Stable",
@@ -550,22 +714,29 @@
     },
     {
         "HQPhone":  "(401) 765-1500",
-        "SFOccupied":  "98,681,058",
+        "ParentCompany":  "",
+        "SFOccupied":  "98,673,656",
         "HQState":  "RI",
+        "Column22":  "",
         "Revenue":  "$372,809,000,000",
-        "Locations":  "8,648",
+        "Locations":  "8,652",
         "Tenant Name":  {
                             "Text":  "CVS Health",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "02895",
         "HQMarket":  "Providence",
         "Credit Rating":  "B - 65",
         "SIC":  "Drug Stores - 5912",
+        "NAICS":  "Pharmacies and Drug Retailers - 456110",
+        "Index":  "",
         "HQCity":  "Woonsocket",
         "Employees":  "217,800",
-        "NAICS":  "Pharmacies and Drug Retailers - 456110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "http://www.cvshealth.com/"
+                    },
         "HighestUseBySF":  "84% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -574,22 +745,29 @@
     },
     {
         "HQPhone":  "(212) 796-8500",
-        "SFOccupied":  "96,262,066",
+        "ParentCompany":  "",
+        "SFOccupied":  "96,241,066",
         "HQState":  "NY",
+        "Column22":  "",
         "Revenue":  "$1,288,144,000",
-        "Locations":  "6,692",
+        "Locations":  "6,691",
         "Tenant Name":  {
                             "Text":  "Sycamore Partners",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "Local",
         "HQPostalCode":  "10019",
         "HQMarket":  "New York",
         "Credit Rating":  "B - 51",
         "SIC":  "Investment Advice - 6282",
+        "NAICS":  "Portfolio Management and Investment Advice - 523940",
+        "Index":  "",
         "HQCity":  "New York",
         "Employees":  "97",
-        "NAICS":  "Portfolio Management and Investment Advice - 523940",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "http://www.sycamorepartners.com/"
+                    },
         "HighestUseBySF":  "58% Retail",
         "Industry":  "Finance and Insurance",
         "Growth":  "Stable",
@@ -597,21 +775,30 @@
         "Established":  "2011"
     },
     {
+        "HQPhone":  "",
+        "ParentCompany":  "",
         "SFOccupied":  "95,709,980",
         "HQState":  "NHO",
+        "Column22":  "",
         "Revenue":  "$90,671,000,000",
         "Locations":  "2,137",
         "Tenant Name":  {
                             "Text":  "Ahold Delhaize",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "1506 MA",
         "HQMarket":  "Netherlands Central \u0026 North",
+        "Credit Rating":  "",
         "SIC":  "Grocery Stores - 5411",
+        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Index":  "",
         "HQCity":  "Zaandam",
         "Employees":  "402,000",
-        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.aholddelhaize.com/"
+                    },
         "HighestUseBySF":  "87% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -623,19 +810,26 @@
         "ParentCompany":  "Walmart Inc.",
         "SFOccupied":  "94,648,843",
         "HQState":  "AR",
+        "Column22":  "",
+        "Revenue":  "",
+        "Locations":  "746",
         "Tenant Name":  {
                             "Text":  "Sam\u0027s Club",
-                            "Href":  null
+                            "Href":  ""
                         },
-        "Locations":  "746",
         "Territory":  "National",
         "HQPostalCode":  "72712",
         "HQMarket":  "Northwest Arkansas",
         "Credit Rating":  "A - 76",
         "SIC":  "Misc Gnrl Merchandise Stores - 5399",
+        "NAICS":  "Warehouse Clubs and Supercenters - 455211",
+        "Index":  "",
         "HQCity":  "Bentonville",
         "Employees":  "42,000",
-        "NAICS":  "Warehouse Clubs and Supercenters - 455211",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.samsclub.com/"
+                    },
         "HighestUseBySF":  "92% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -644,41 +838,60 @@
     },
     {
         "HQPhone":  "011 82 2-3464-1114",
+        "ParentCompany":  "",
         "SFOccupied":  "94,327,933",
+        "HQState":  "",
+        "Column22":  "",
         "Revenue":  "$83,517,984,539",
         "Locations":  "1,236",
         "Tenant Name":  {
                             "Text":  "Hyundai Motor Group",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "06797",
+        "HQMarket":  "",
+        "Credit Rating":  "",
         "SIC":  "Motor Vehicles - 3711",
-        "HQCountry":  "Korea, Republic of (South)",
-        "Employees":  "250,000",
         "NAICS":  "Automobile and Light Duty Motor Vehicle Manufacturing - 336110",
+        "Index":  "",
+        "HQCity":  "",
+        "Employees":  "250,000",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.hyundaimotorgroup.com/about-us/history"
+                    },
         "HighestUseBySF":  "83% Industrial",
         "Industry":  "Manufacturing",
         "Growth":  "Stable",
+        "HQCountry":  "Korea, Republic of (South)",
         "Established":  "1967"
     },
     {
         "HQPhone":  "(404) 591-5200",
-        "SFOccupied":  "89,248,902",
+        "ParentCompany":  "",
+        "SFOccupied":  "89,254,802",
         "HQState":  "GA",
+        "Column22":  "",
+        "Revenue":  "",
+        "Locations":  "34,991",
         "Tenant Name":  {
                             "Text":  "Roark Capital Acquisition LLC",
-                            "Href":  null
+                            "Href":  ""
                         },
-        "Locations":  "34,977",
         "Territory":  "International",
         "HQPostalCode":  "30309",
         "HQMarket":  "Atlanta",
         "Credit Rating":  "A - 75",
         "SIC":  "Investors, NEC - 6799",
+        "NAICS":  "Miscellaneous Intermediation - 523910",
+        "Index":  "",
         "HQCity":  "Atlanta",
         "Employees":  "10,000",
-        "NAICS":  "Miscellaneous Intermediation - 523910",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "http://www.roarkcapital.com/"
+                    },
         "HighestUseBySF":  "88% Retail",
         "Industry":  "Finance and Insurance",
         "Growth":  "Stable",
@@ -687,22 +900,29 @@
     },
     {
         "HQPhone":  "(404) 828-6000",
+        "ParentCompany":  "",
         "SFOccupied":  "88,918,029",
         "HQState":  "GA",
+        "Column22":  "",
         "Revenue":  "$91,070,000,000",
         "Locations":  "6,975",
         "Tenant Name":  {
                             "Text":  "United Parcel Service",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "30328",
         "HQMarket":  "Atlanta",
         "Credit Rating":  "A - 79",
         "SIC":  "Courier Serv, Excp By Air - 4215",
+        "NAICS":  "Couriers and Express Delivery Services - 492110",
+        "Index":  "",
         "HQCity":  "Atlanta",
         "Employees":  "500,000",
-        "NAICS":  "Couriers and Express Delivery Services - 492110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://about.ups.com/"
+                    },
         "HighestUseBySF":  "83% Industrial",
         "Industry":  "Transportation and Warehousing",
         "Growth":  "Stable",
@@ -711,21 +931,29 @@
     },
     {
         "HQPhone":  "(972) 431-1000",
-        "SFOccupied":  "84,285,364",
+        "ParentCompany":  "",
+        "SFOccupied":  "84,285,864",
         "HQState":  "TX",
+        "Column22":  "",
         "Revenue":  "$9,000,000,000",
-        "Locations":  "662",
+        "Locations":  "663",
         "Tenant Name":  {
                             "Text":  "JCPenney",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "75024",
         "HQMarket":  "Dallas-Fort Worth",
+        "Credit Rating":  "",
         "SIC":  "Department Stores - 5311",
+        "NAICS":  "Department Stores - 452210",
+        "Index":  "",
         "HQCity":  "Plano",
         "Employees":  "50,000",
-        "NAICS":  "Department Stores - 452210",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://corporate.jcpenney.com/"
+                    },
         "HighestUseBySF":  "86% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -734,21 +962,29 @@
     },
     {
         "HQPhone":  "011 33 4 73 32 20 00",
-        "SFOccupied":  "84,184,346",
+        "ParentCompany":  "",
+        "SFOccupied":  "84,151,696",
         "HQState":  "RHO",
+        "Column22":  "",
         "Revenue":  "$2,413,966,100",
-        "Locations":  "388",
+        "Locations":  "387",
         "Tenant Name":  {
                             "Text":  "Michelin Group",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "63000",
         "HQMarket":  "Auvergne/Sud-Rhône",
+        "Credit Rating":  "",
         "SIC":  "Tires And Inner Tubes - 3011",
+        "NAICS":  "Tire Manufacturing - 326211",
+        "Index":  "",
         "HQCity":  "Clermont-Ferrand",
         "Employees":  "132,500",
-        "NAICS":  "Tire Manufacturing - 326211",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "http://www.michelin.com/en/"
+                    },
         "HighestUseBySF":  "94% Industrial",
         "Industry":  "Manufacturing",
         "Growth":  "Stable",
@@ -757,22 +993,29 @@
     },
     {
         "HQPhone":  "011 44 800 505555",
+        "ParentCompany":  "",
         "SFOccupied":  "84,003,756",
         "HQState":  "HRT",
+        "Column22":  "",
         "Revenue":  "$90,928,125,762",
         "Locations":  "4,442",
         "Tenant Name":  {
                             "Text":  "Tesco plc",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "AL7 1GA",
         "HQMarket":  "Hertfordshire",
         "Credit Rating":  "A - 96",
         "SIC":  "Grocery Stores - 5411",
+        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Index":  "",
         "HQCity":  "Welwyn Garden City",
         "Employees":  "336,712",
-        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "http://www.tesco.com/"
+                    },
         "HighestUseBySF":  "76% Retail",
         "Industry":  "Retailer",
         "Growth":  "Stable",
@@ -781,20 +1024,29 @@
     },
     {
         "HQPhone":  "011 49 800 4353361",
+        "ParentCompany":  "",
         "SFOccupied":  "82,993,046",
         "HQState":  "BAW",
+        "Column22":  "",
+        "Revenue":  "",
+        "Locations":  "1,823",
         "Tenant Name":  {
                             "Text":  "Schwarz Group",
-                            "Href":  null
+                            "Href":  ""
                         },
-        "Locations":  "1,823",
         "Territory":  "International",
         "HQPostalCode":  "74172",
         "HQMarket":  "Germany South",
+        "Credit Rating":  "",
         "SIC":  "Grocery Stores - 5411",
+        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Index":  "",
         "HQCity":  "Neckarsulm",
         "Employees":  "595,000",
-        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://gruppe.schwarz/en"
+                    },
         "HighestUseBySF":  "57% Industrial",
         "Industry":  "Retailer",
         "Growth":  "Growing",
@@ -803,20 +1055,29 @@
     },
     {
         "HQPhone":  "011 800 2424 0707",
+        "ParentCompany":  "",
         "SFOccupied":  "79,802,865",
         "HQState":  "NHO",
+        "Column22":  "",
         "Revenue":  "$189,544,000,000",
         "Locations":  "5,087",
         "Tenant Name":  {
                             "Text":  "Stellantis NV",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "2132 LS",
+        "HQMarket":  "",
+        "Credit Rating":  "",
         "SIC":  "Motor Vehicles - 3711",
+        "NAICS":  "Automobile Manufacturing - 336111",
+        "Index":  "",
         "HQCity":  "Hoofddorp",
         "Employees":  "281,595",
-        "NAICS":  "Automobile Manufacturing - 336111",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.stellantis.com/en"
+                    },
         "HighestUseBySF":  "58% Industrial",
         "Industry":  "Manufacturing",
         "Growth":  "Stable",
@@ -825,20 +1086,29 @@
     },
     {
         "HQPhone":  "011 49 6308 798100",
+        "ParentCompany":  "",
         "SFOccupied":  "77,854,781",
         "HQState":  "NOR",
+        "Column22":  "",
+        "Revenue":  "",
+        "Locations":  "3,463",
         "Tenant Name":  {
                             "Text":  "ALDI SÜD",
-                            "Href":  null
+                            "Href":  ""
                         },
-        "Locations":  "3,463",
         "Territory":  "International",
         "HQPostalCode":  "45476",
         "HQMarket":  "Ruhr",
+        "Credit Rating":  "",
         "SIC":  "Grocery Stores - 5411",
+        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Index":  "",
         "HQCity":  "Mülheim an der Ruhr",
         "Employees":  "203,146",
-        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.aldi-sued.de/de/immobilien"
+                    },
         "HighestUseBySF":  "76% Retail",
         "Industry":  "Retailer",
         "Growth":  "Growing",
@@ -847,21 +1117,29 @@
     },
     {
         "HQPhone":  "011 49 89 3820",
+        "ParentCompany":  "",
         "SFOccupied":  "76,705,188",
         "HQState":  "BAY",
+        "Column22":  "",
         "Revenue":  "$129,723,272,971",
         "Locations":  "780",
         "Tenant Name":  {
                             "Text":  "BMW Group",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "80809",
         "HQMarket":  "Munich",
+        "Credit Rating":  "",
         "SIC":  "Motor Vehicles - 3711",
+        "NAICS":  "Automobile and Light Duty Motor Vehicle Manufacturing - 336110",
+        "Index":  "",
         "HQCity":  "Munich",
         "Employees":  "154,950",
-        "NAICS":  "Automobile and Light Duty Motor Vehicle Manufacturing - 336110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.bmwgroup.com/"
+                    },
         "HighestUseBySF":  "84% Industrial",
         "Industry":  "Manufacturing",
         "Growth":  "Stable",
@@ -870,22 +1148,29 @@
     },
     {
         "HQPhone":  "(602) 263-6011",
-        "SFOccupied":  "75,932,380",
+        "ParentCompany":  "",
+        "SFOccupied":  "75,961,380",
         "HQState":  "NV",
+        "Column22":  "",
         "Revenue":  "$5,625,674,000",
-        "Locations":  "13,208",
+        "Locations":  "13,266",
         "Tenant Name":  {
                             "Text":  "U-Haul Holding Company",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "Local",
         "HQPostalCode":  "89511",
         "HQMarket":  "Reno",
         "Credit Rating":  "A - 91",
         "SIC":  "Truck Rental And Leasing - 7513",
+        "NAICS":  "Truck, Utility Trailer, and RV Rental and Leasing - 532120",
+        "Index":  "",
         "HQCity":  "Reno",
         "Employees":  "34,300",
-        "NAICS":  "Truck, Utility Trailer, and RV Rental and Leasing - 532120",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.amerco.com/"
+                    },
         "HighestUseBySF":  "36% Retail",
         "Industry":  "Rental and Leasing Services",
         "Growth":  "Stable",
@@ -894,21 +1179,29 @@
     },
     {
         "HQPhone":  "011 33 1 84 94 36 35",
+        "ParentCompany":  "",
         "SFOccupied":  "74,502,265",
         "HQState":  "SSD",
+        "Column22":  "",
         "Revenue":  "$40,582,618,501",
         "Locations":  "634",
         "Tenant Name":  {
                             "Text":  "SNCF Groupe",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "International",
         "HQPostalCode":  "93210",
         "HQMarket":  "Paris/Île-de-France",
+        "Credit Rating":  "",
         "SIC":  "Railroads, Line-Haul Oper - 4011",
+        "NAICS":  "Line-Haul Railroads - 482111",
+        "Index":  "",
         "HQCity":  "Saint-Denis",
         "Employees":  "283,000",
-        "NAICS":  "Line-Haul Railroads - 482111",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.groupe-sncf.com/"
+                    },
         "HighestUseBySF":  "90% Industrial",
         "Industry":  "Transportation and Warehousing",
         "Growth":  "Stable",
@@ -917,22 +1210,29 @@
     },
     {
         "HQPhone":  "(863) 688-1188",
+        "ParentCompany":  "",
         "SFOccupied":  "74,119,300",
         "HQState":  "FL",
+        "Column22":  "",
         "Revenue":  "$57,100,000,000",
         "Locations":  "1,692",
         "Tenant Name":  {
                             "Text":  "Publix Super Markets Inc.",
-                            "Href":  null
+                            "Href":  ""
                         },
         "Territory":  "National",
         "HQPostalCode":  "33811",
         "HQMarket":  "Lakeland",
         "Credit Rating":  "A - 82",
         "SIC":  "Grocery Stores - 5411",
+        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Index":  "",
         "HQCity":  "Lakeland",
         "Employees":  "200,000",
-        "NAICS":  "Supermarkets and Grocery Stores - 445110",
+        "Website":  {
+                        "Text":  "",
+                        "Href":  "https://www.publixstockholder.com/financial-information-and-filings"
+                    },
         "HighestUseBySF":  "85% Retail",
         "Industry":  "Retailer",
         "Growth":  "Growing",
