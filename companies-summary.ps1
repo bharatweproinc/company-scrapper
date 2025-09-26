@@ -1,4 +1,4 @@
-$Email = "sagar@weproinc.com"
+$Email = "rohitkumar12901230@gmail.com"
 
 Add-Type -AssemblyName System.Windows.Forms
 Add-Type -AssemblyName System.Drawing
